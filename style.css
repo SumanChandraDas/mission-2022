@@ -39,3 +39,49 @@ body{
     width: 400px;
     height: 400px;
 }
+.mission-2022-heading{
+    font-size: 40px;
+    text-align: center;
+    font-family: "Gill Sans", sans-serif;
+    
+}
+
+.Mission{
+
+    
+    width: 350px;
+    height: 350px;
+    padding: 25px;
+    border-radius: 5%;
+    background-color: rgb(236, 225, 225);
+}
+.Vission{
+    
+    width: 350px;
+    height: 350px;
+    padding: 25px;
+    border-radius: 5%;
+    background-color: rgb(212, 214, 226);
+}
+.Goals{
+    
+    width: 350px;
+    height: 350px;
+    padding: 25px;
+    border-radius: 5%;
+    background-color: rgb(228, 215, 230);
+}
+.my-mission-item{
+    display: flex;
+    justify-content: space-around;
+}
+.my-mission-item-image{
+    width: 100px;
+    height: 100px;
+}
+.my-mission-item-name{
+    font-size: 30px;
+    font-family: "Gill Sans", sans-serif;
+    
+}
+
