@@ -2,7 +2,7 @@ body{
     margin: 0 auto;
     padding: 0 auto;
 }
-.stay-focused{
+.two-section-devider{
     display: flex;
     width: 80%;
     justify-content: space-around;
@@ -85,15 +85,12 @@ body{
     
 }
 .Develop-Without-Limits{
-    
-    display: flex;
-    width: 80%;
-    justify-content: space-around;
-    margin: auto;
     margin-top: 80px;
-    
 }
-.Develop-Without-Limits-heading{
+.Know-our-Global-Community{
+    margin-top: 80px;
+}
+.two-line-heading{
     font-family: "Gill Sans", sans-serif;
     font-size: 25px;
 }
