@@ -94,3 +94,10 @@ body{
     font-family: "Gill Sans", sans-serif;
     font-size: 25px;
 }
+.start-project-heading{
+    text-align: center;
+    font-size: 30px;
+    font-family: "Gill Sans", sans-serif;
+    color: rgb(48, 48, 128);
+
+}
