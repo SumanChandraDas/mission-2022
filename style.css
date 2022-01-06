@@ -1,0 +1,41 @@
+body{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+.stay-focused{
+    display: flex;
+    width: 80%;
+    justify-content: space-around;
+    margin: auto;
+}
+.text-side{
+    width: 40%;
+}
+.first-text{
+    font-size: 50px;
+}
+.secound-text{
+    font-size: 50px;
+    color: rgb(48, 48, 128);
+
+}
+.one-side-border{
+    border-left: 2px solid rgb(195, 207, 19);
+    padding-left: 5px;
+}
+.button{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: rgb(195, 207, 19);
+    border-radius: 3px;
+}
+#scrol-down-text{
+    margin-top: 30px;
+}
+.image-side{
+    width: 40%;
+}
+.image-side img{
+    width: 400px;
+    height: 400px;
+}
