@@ -84,4 +84,16 @@ body{
     font-family: "Gill Sans", sans-serif;
     
 }
-
+.Develop-Without-Limits{
+    
+    display: flex;
+    width: 80%;
+    justify-content: space-around;
+    margin: auto;
+    margin-top: 80px;
+    
+}
+.Develop-Without-Limits-heading{
+    font-family: "Gill Sans", sans-serif;
+    font-size: 25px;
+}
